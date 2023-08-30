@@ -8,7 +8,7 @@
 I am a simple guy who like computer science, pursuing a Masters of Cybersecurity, who is passionate about Pentest 👨🏻‍💻, OSINT 🕵🏽, Pythonic programming :snake:, and open source :octocat:. I love to learn and contribute in any and every possible way.
 
 - 💬 Ask me about anything, I am happy to help
-- 😄 Little Fork() Bomb :(){ :|: & };:
+- 😄 Little Fork() Bomb `:(){ :|: & };:`
 - 👾 Fun fact: Every hour of downtime due to a ransomware attack costs an average of $250,000 ([Acronis](https://dl.acronis.com/u/rc/Infographic-Acronis-Cyber-Protect-2021-SMB-Threat-Landscape-EN-US.pdf))
 
 <!--Public Stats-->
