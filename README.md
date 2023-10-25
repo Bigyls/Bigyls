@@ -13,7 +13,7 @@ I am a simple guy who like computer science, pursuing a Masters of Cybersecurity
 
 <!--Public Stats-->
 ![Bigyls's GitHub stats](https://github-readme-stats-paroape.vercel.app/api?username=bigyls&count_private=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats-paroape.vercel.app/api/top-langs/?username=bigyls&layout=compact&count_private=true&exclude_repo=github-readme-stats,HackNotes,choiceof.dev,Obsidian,Vrac&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats-paroape.vercel.app/api/top-langs/?username=bigyls&layout=compact&count_private=true&exclude_repo=github-readme-stats,HackNotes,choiceof.dev,Obsidian,Vrac,WebApplicationSecurityM1&show_icons=true&theme=radical)
 
  ----
 </details>
