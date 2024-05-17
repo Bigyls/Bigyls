@@ -12,7 +12,7 @@ I am a simple guy who like computer science, pursuing a Masters of Cybersecurity
 - 👾 Fun fact: Every hour of downtime due to a ransomware attack costs an average of $250,000 ([Acronis](https://dl.acronis.com/u/rc/Infographic-Acronis-Cyber-Protect-2021-SMB-Threat-Landscape-EN-US.pdf))
 
 <!--Public Stats-->
-![Bigyls's GitHub stats](https://github-readme-stats-paroape.vercel.app/api?username=bigyls&count_private=true&show_icons=true&theme=radical)
+![Bigyls's GitHub stats](https://github-readme-stats-paroape.vercel.app/api?username=bigyls&count_private=true&show_icons=true&hide_title=true&include_all_commits=true&theme=radical)
 ![Top Langs](https://github-readme-stats-paroape.vercel.app/api/top-langs/?username=bigyls&layout=compact&count_private=true&exclude_repo=github-readme-stats,HackNotes,choiceof.dev,Obsidian,Vrac,WebApplicationSecurityM1&show_icons=true&theme=radical)
 
  ----
